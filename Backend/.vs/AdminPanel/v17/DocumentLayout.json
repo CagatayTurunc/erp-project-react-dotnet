@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\dataaccess\\concrete\\entityframework\\efquotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efquotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\business\\abstract\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|solutionrelative:business\\abstract\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.QuoteLineItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\webapi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\entities\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\entities\\concrete\\quotelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\quotelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\entities\\dtos\\quotelineitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\quotelineitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\webapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\dataaccess\\abstarct\\iquotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstarct\\iquotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\dataaccess\\migrations\\20250812113306_addquotelineitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250812113306_addquotelineitemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\entities\\dtos\\quotedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\quotedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\entities\\concrete\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1772A650-4359-448C-98EA-75E8B3E33094}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.Quotes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\business\\concrete\\quotemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|solutionrelative:business\\concrete\\quotemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6708A-27E5-45CA-B0C5-8F04F5AA98BA}|Core\\Core.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6708A-27E5-45CA-B0C5-8F04F5AA98BA}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A9632F-C0A4-4AFD-896B-F15DE0E2AB90}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55300FA2-C9CA-43CD-80F1-9143A012BC2E}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.SalesOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay\\source\\repos\\adminpanel\\dataaccess\\migrations\\20250812073947_addquotetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B140C6-1AF6-4A5D-8088-20D4E339CE6A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250812073947_addquotetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuoteLineItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\DTOs\\QuoteLineItemDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\QuoteLineItemDto.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\DTOs\\QuoteLineItemDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\QuoteLineItemDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:29:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\Quote.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Quote.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\Quote.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Quote.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:31:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfQuoteDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Concrete\\EntityFramework\\EfQuoteDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfQuoteDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Concrete\\EntityFramework\\EfQuoteDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfQuoteDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:42:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.QuoteLineItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.QuoteLineItems.sql",
+              "ToolTip": "dbo.QuoteLineItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-12T11:46:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\Customer.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:48:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\Abstract\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IQuoteService.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\Abstract\\IQuoteService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IQuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:44:13.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Data\\Seed.cs",
+              "RelativeToolTip": "WebApi\\Data\\Seed.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:55:24.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\QuoteLineItem.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\QuoteLineItem.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\Concrete\\QuoteLineItem.cs",
+              "RelativeToolTip": "Entities\\Concrete\\QuoteLineItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:27:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:35:15.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250812122444_ExpandQuoteLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250812122444_ExpandQuoteLineItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:24:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\QuotesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:45:12.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuoteDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\DTOs\\QuoteDetailDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\QuoteDetailDto.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Entities\\DTOs\\QuoteDetailDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\QuoteDetailDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:34:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250812113306_AddQuoteLineItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812113306_AddQuoteLineItemsTable.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250812113306_AddQuoteLineItemsTable.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812113306_AddQuoteLineItemsTable.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250812113306_AddQuoteLineItemsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:33:07.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQuoteDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Abstarct\\IQuoteDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstarct\\IQuoteDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Abstarct\\IQuoteDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstarct\\IQuoteDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:41:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Quotes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.Quotes.sql",
+              "ToolTip": "dbo.Quotes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-12T11:12:19.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuoteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\Concrete\\QuoteManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\QuoteManager.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\Concrete\\QuoteManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\QuoteManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:44:30.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:13:51.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T09:03:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:10:20.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:01:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-12T07:02:17.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250812073947_AddQuoteTable.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812073947_AddQuoteTable.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250812073947_AddQuoteTable.cs",
+              "ToolTip": "C:\\Users\\Cagatay\\source\\repos\\AdminPanel\\DataAccess\\Migrations\\20250812073947_AddQuoteTable.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250812073947_AddQuoteTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:39:48.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.SalesOrders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.SalesOrders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/admin/True/SqlTable/dbo.SalesOrders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-12T07:02:29.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
